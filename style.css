@@ -315,7 +315,7 @@ a {
     }
 
     .profile-container {
-        width: auto;
+        width: 450px;
         height: auto;
         margin: 0;
         padding: 0;
@@ -337,7 +337,7 @@ a {
     }
 
     .about-container {
-        width: auto;
+        width: 450px;
         margin: 0;
         padding: 0;
         padding-bottom: 100px;
@@ -345,7 +345,7 @@ a {
     }
 
     .aboutme {
-        width: auto;
+        width: 450px;
         height: auto;
         margin: 0;
         padding: 0;
@@ -378,7 +378,7 @@ a {
         margin-left: 30px;
     }
     .skill-container{
-        width: auto;
+        width: 450px;
         height: auto;
         margin: 0;
         padding: 0;
@@ -412,7 +412,7 @@ a {
         text-decoration: underline;
     }
     .project-container {
-        width: auto;
+        width: 450px;
         height: auto;
         padding: 0;
         margin: 0;
@@ -423,7 +423,7 @@ a {
         text-decoration: underline;
     }
     .contact-container{
-        width: auto;
+        width: 450px;
         height: auto;
         padding: 0;
         margin: 0;
