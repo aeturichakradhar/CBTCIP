@@ -334,10 +334,11 @@ a {
     }
 
     .img-bg {
-        width: 430px;
-        height: 430px;
+        width: 440px;
+        height: 440px;
         margin: 0;
         padding: 0;
+        margin-bottom: 50px;
     }
 
     .about-container {
@@ -369,6 +370,7 @@ a {
         width: auto;
         height: auto;
         display: grid;
+        padding-left: 30px;
     }
 
     .para {
