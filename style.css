@@ -568,6 +568,9 @@ a {
     }
     .con-me{
         margin-left: 150px;
+        padding-top: 30px;
+        padding-bottom: 10px;
+        text-decoration: underline;
     }
     .para1{
         margin-left: 30px;
